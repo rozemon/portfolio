@@ -1,0 +1,290 @@
+V0,V1,V2,V3
+1,all,all,1
+2,0,World,0
+3,4,Afghanistan,0
+4,472,Africa CAMEU region,0
+5,8,Albania,0
+6,12,Algeria,0
+7,16,American Samoa,0
+8,20,Andorra,0
+9,24,Angola,0
+10,660,Anguilla,0
+11,10,Antarctica,0
+12,28,Antigua and Barbuda,0
+13,899,Areas,0
+14,32,Argentina,0
+15,51,Armenia,0
+16,533,Aruba,0
+17,36,Australia,0
+18,40,Austria,0
+19,31,Azerbaijan,0
+20,44,Bahamas,0
+21,48,Bahrain,0
+22,50,Bangladesh,0
+23,52,Barbados,0
+24,112,Belarus,0
+25,56,Belgium,0
+26,58,Belgium-Luxembourg,0
+27,84,Belize,0
+28,204,Benin,0
+29,60,Bermuda,0
+30,64,Bhutan,0
+31,68,Bolivia,0
+32,70,Bosnia Herzegovina,0
+33,72,Botswana,0
+34,74,Bouvet Island  ,0
+35,80,Br. Antarctic Terr.,0
+36,86,Br. Indian Ocean Terr.,0
+37,92,Br. Virgin Isds,0
+38,76,Brazil,0
+39,96,Brunei Darussalam,0
+40,100,Bulgaria,0
+41,837,Bunkers,0
+42,854,Burkina Faso,0
+43,108,Burundi,0
+44,471,CACM,0
+45,116,Cambodia,0
+46,120,Cameroon,0
+47,124,Canada,0
+48,132,Cape Verde,0
+49,129,Caribbean,0
+50,136,Cayman Isds,0
+51,140,Central African Rep.,0
+52,148,Chad,0
+53,152,Chile,0
+54,156,China,0
+55,344,China,0
+56,446,China,0
+57,162,Christmas Isds,0
+58,166,Cocos Isds,0
+59,170,Colombia,0
+60,174,Comoros,0
+61,178,Congo,0
+62,184,Cook Isds,0
+63,188,Costa Rica,0
+64,384,C�te d'Ivoire,0
+65,191,Croatia,0
+66,192,Cuba,0
+67,196,Cyprus,0
+68,203,Czech Rep.,0
+69,200,Czechoslovakia,0
+70,408,Dem. People's Rep. of Korea,0
+71,180,Dem. Rep. of the Congo,0
+72,208,Denmark,0
+73,262,Djibouti,0
+74,212,Dominica,0
+75,214,Dominican Rep.,0
+76,588,East and West Pakistan,0
+77,221,Eastern Europe,0
+78,218,Ecuador,0
+79,818,Egypt,0
+80,222,El Salvador,0
+81,226,Equatorial Guinea,0
+82,232,Eritrea,0
+83,233,Estonia,0
+84,231,Ethiopia,0
+85,97,EU-27,0
+86,697,Europe EFTA,0
+87,492,Europe EU,0
+88,234,Faeroe Isds,0
+89,238,Falkland Isds (Malvinas),0
+90,242,Fiji,0
+91,246,Finland,0
+92,886,Fmr Arab Rep. of Yemen,0
+93,278,Fmr Dem. Rep. of Germany,0
+94,866,Fmr Dem. Rep. of Vietnam,0
+95,720,Fmr Dem. Yemen,0
+96,230,Fmr Ethiopia,0
+97,280,Fmr Fed. Rep. of Germany,0
+98,582,Fmr Pacific Isds,0
+99,590,Fmr Panama,0
+100,592,Fmr Panama-Canal-Zone,0
+101,868,Fmr Rep. of Vietnam,0
+102,717,Fmr Rhodesia Nyas,0
+103,835,Fmr Tanganyika,0
+104,810,Fmr USSR,0
+105,890,Fmr Yugoslavia,0
+106,836,Fmr Zanzibar and Pemba Isd,0
+107,260,Fr. South Antarctic Terr.,0
+108,251,France,0
+109,838,Free Zones,0
+110,254,French Guiana,0
+111,258,French Polynesia,0
+112,583,Micronesia,0
+113,266,Gabon,0
+114,270,Gambia,0
+115,268,Georgia,0
+116,276,Germany,0
+117,288,Ghana,0
+118,292,Gibraltar,0
+119,300,Greece,0
+120,304,Greenland,0
+121,308,Grenada,0
+122,312,Guadeloupe,0
+123,316,Guam,0
+124,320,Guatemala,0
+125,324,Guinea,0
+126,624,Guinea-Bissau,0
+127,328,Guyana,0
+128,332,Haiti,0
+129,334,Heard Island and McDonald Islands,0
+130,336,Holy See (Vatican City State),0
+131,340,Honduras,0
+132,348,Hungary,0
+133,352,Iceland,0
+134,699,India,0
+135,356,India,0
+136,360,Indonesia,0
+137,364,Iran,0
+138,368,Iraq,0
+139,372,Ireland,0
+140,376,Israel,0
+141,381,Italy,0
+142,388,Jamaica,0
+143,392,Japan,0
+144,400,Jordan,0
+145,398,Kazakhstan,0
+146,404,Kenya,0
+147,296,Kiribati,0
+148,414,Kuwait,0
+149,417,Kyrgyzstan,0
+150,473,LAIA,0
+151,418,Lao People's Dem. Rep.,0
+152,428,Latvia,0
+153,422,Lebanon,0
+154,426,Lesotho,0
+155,430,Liberia,0
+156,434,Libya,0
+157,440,Lithuania,0
+158,442,Luxembourg,0
+159,450,Madagascar,0
+160,454,Malawi,0
+161,458,Malaysia,0
+162,462,Maldives,0
+163,466,Mali,0
+164,470,Malta,0
+165,584,Marshall Isds,0
+166,474,Martinique,0
+167,478,Mauritania,0
+168,480,Mauritius,0
+169,175,Mayotte,0
+170,484,Mexico,0
+171,496,Mongolia,0
+172,499,Montenegro,0
+173,500,Montserrat,0
+174,504,Morocco,0
+175,508,Mozambique,0
+176,104,Myanmar,0
+177,580,N. Mariana Isds,0
+178,516,Namibia,0
+179,520,Nauru,0
+180,524,Nepal,0
+181,530,Neth. Antilles,0
+182,532,Neth. Antilles and Aruba,0
+183,528,Netherlands,0
+184,536,Neutral Zone,0
+185,540,New Caledonia,0
+186,554,New Zealand,0
+187,558,Nicaragua,0
+188,562,Niger,0
+189,566,Nigeria,0
+190,570,Niue,0
+191,574,Norfolk Isds,0
+192,637,North America,0
+193,290,Northern Africa,0
+194,579,Norway,0
+195,275,Occ. Palestinian Terr.,0
+196,527,Oceania,0
+197,512,Oman,0
+198,577,Other Africa,0
+199,490,Other Asia,0
+200,568,Other Europe,0
+201,586,Pakistan,0
+202,585,Palau,0
+203,591,Panama,0
+204,598,Papua New Guinea,0
+205,600,Paraguay,0
+206,459,Peninsula Malaysia,0
+207,604,Peru,0
+208,608,Philippines,0
+209,612,Pitcairn,0
+210,616,Poland,0
+211,620,Portugal,0
+212,634,Qatar,0
+213,410,Rep. of Korea,0
+214,498,Rep. of Moldova,0
+215,636,Rest of America,0
+216,638,R�union,0
+217,642,Romania,0
+218,643,Russian Federation,0
+219,646,Rwanda,0
+220,647,Ryukyu Isd,0
+221,461,Sabah,0
+222,654,Saint Helena,0
+223,659,Saint Kitts and Nevis,0
+224,658,Saint Kitts,0
+225,662,Saint Lucia,0
+226,666,Saint Pierre and Miquelon,0
+227,670,Saint Vincent and the Grenadines,0
+228,882,Samoa,0
+229,674,San Marino,0
+230,678,Sao Tome and Principe,0
+231,457,Sarawak,0
+232,682,Saudi Arabia,0
+233,686,Senegal,0
+234,688,Serbia,0
+235,891,Serbia and Montenegro,0
+236,690,Seychelles,0
+237,694,Sierra Leone,0
+238,698,Sikkim,0
+239,702,Singapore,0
+240,703,Slovakia,0
+241,705,Slovenia,0
+242,711,So. African Customs Union,0
+243,90,Solomon Isds,0
+244,706,Somalia,0
+245,710,South Africa,0
+246,239,South Georgia and the South Sandwich Islands,0
+247,724,Spain,0
+248,839,Special Categories,0
+249,144,Sri Lanka,0
+250,736,Sudan,0
+251,740,Suriname,0
+252,748,Swaziland,0
+253,752,Sweden,0
+254,757,Switzerland,0
+255,760,Syria,0
+256,762,Tajikistan,0
+257,807,TFYR of Macedonia,0
+258,764,Thailand,0
+259,626,Timor-Leste,0
+260,768,Togo,0
+261,772,Tokelau,0
+262,776,Tonga,0
+263,780,Trinidad and Tobago,0
+264,788,Tunisia,0
+265,792,Turkey,0
+266,795,Turkmenistan,0
+267,796,Turks and Caicos Isds,0
+268,798,Tuvalu,0
+269,800,Uganda,0
+270,804,Ukraine,0
+271,784,United Arab Emirates,0
+272,826,United Kingdom,0
+273,834,United Rep. of Tanzania,0
+274,581,United States Minor Outlying Islands,0
+275,858,Uruguay,0
+276,849,US Misc. Pacific Isds,0
+277,850,US Virgin Isds,0
+278,842,USA,0
+279,841,USA (before 1981),0
+280,860,Uzbekistan,0
+281,548,Vanuatu,0
+282,862,Venezuela,0
+283,704,Viet Nam,0
+284,876,Wallis and Futuna Isds,0
+285,879,Western Asia,0
+286,732,Western Sahara,0
+287,887,Yemen,0
+288,894,Zambia,0
+289,716,Zimbabwe,0

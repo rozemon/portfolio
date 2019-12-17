@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+
+# Scrapy settings for fragrantica project
+#
+# For simplicity, this file contains only the most important settings by
+# default. All the other settings are documented here:
+#
+#     http://doc.scrapy.org/en/latest/topics/settings.html
+#
+
+BOT_NAME = 'fragrantica'
+
+SPIDER_MODULES = ['fragrantica.spiders']
+NEWSPIDER_MODULE = 'fragrantica.spiders'
+ITEM_PIPELINES = ['fragrantica.pipelines.FragranticaPipeline',]
+# Crawl responsibly by identifying yourself (and your website) on the user-agent
+#USER_AGENT = 'fragrantica (+http://www.yourdomain.com)'
+
+ROBOTSTXT_OBEY = True
+DOWNLOAD_DELAY = 0.25
+RANDOMIZE_DOWNLOAD_DELAY = True
+USER_AGENT = 'googlebot'
+
+
+
+FEED_EXPORTERS = {
+    'csv': 'fragrantica.my_project_csv_item_exporter.MyProjectCsvItemExporter',
+}
+
+CSV_DELIMITER = ";" 
+
+#ITEM_PIPELINES = {'scrapy.contrib.pipeline.images.ImagesPipeline': 1}
+ITEM_PIPELINES = {'fragrantica.pipelines.FragranticaPipeline': 1, 'scrapy.contrib.pipeline.images.ImagesPipeline': 10,}
+IMAGES_STORE = '/home/rosario/fragrantica/Immagini'
+
